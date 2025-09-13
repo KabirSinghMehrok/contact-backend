@@ -1,0 +1,31 @@
+{
+  "user_prompt": "Filter products with price greater than 100",
+  "request_data": {
+    "table_data": [
+      {
+        "data": {
+          "name": "Laptop",
+          "price": 1200,
+          "category": "Electronics",
+          "in_stock": true
+        }
+      },
+      {
+        "data": {
+          "name": "Book",
+          "price": 25,
+          "category": "Education",
+          "in_stock": true
+        }
+      },
+      {
+        "data": {
+          "name": "Monitor",
+          "price": 300,
+          "category": "Electronics",
+          "in_stock": false
+        }
+      }
+    ]
+  }
+}
